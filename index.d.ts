@@ -12,9 +12,9 @@ import { Get } from 'hold';
 
 export declare namespace Ipp5AdlibitumRouter {
 
-    type EventSpecs = Record<never, never>;
-
     type Options = Record<never, never>;
+
+    type EventSpecs = Record<never, never>;
 
     type _Self = {
         readonly options: Get<Options>;
